@@ -1,0 +1,17 @@
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\FizzBuzzTest.deps.json
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\FizzBuzzTest.runtimeconfig.json
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\FizzBuzzTest.runtimeconfig.dev.json
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\FizzBuzzTest.dll
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\FizzBuzzTest.pdb
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\bin\Debug\netcoreapp2.1\FizzBuzz.pdb
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\obj\Debug\netcoreapp2.1\FizzBuzzTest.csprojAssemblyReference.cache
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\obj\Debug\netcoreapp2.1\FizzBuzzTest.csproj.CoreCompileInputs.cache
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\obj\Debug\netcoreapp2.1\FizzBuzzTest.AssemblyInfoInputs.cache
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\obj\Debug\netcoreapp2.1\FizzBuzzTest.AssemblyInfo.cs
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\obj\Debug\netcoreapp2.1\FizzBuzzTest.csproj.CopyComplete
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\obj\Debug\netcoreapp2.1\FizzBuzzTest.dll
+C:\Users\rizzinim\Git\FizzBuzz\FizzBuzzTest\obj\Debug\netcoreapp2.1\FizzBuzzTest.pdb
